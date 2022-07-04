@@ -82,6 +82,17 @@ And of course, images look great:
 
 <img src="/assets/image.jpg"/>
 
+![[image.jpg]]
+
+![[assets/image.jpg]]
+
+![[/assets/image.jpg]]
+
+![](assets/image.jpg)
+
+![](/assets/image.jpg)
+
+
 You can also ==highlight some content== by wrapping it with `==`.
 
 Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こんにちは==.
